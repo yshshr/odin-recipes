@@ -1,0 +1,28 @@
+
+a {
+  background-color: rgb(37, 121, 12);
+  color: yellow;
+  padding: 5px;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 20px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 40px auto;
+}
+
+h2 {
+  background-color: rgb(53, 143, 221);
+  text-align: center;
+}
+
+p {
+  font-weight: 700;
+  font-style: italic;
+}
+
